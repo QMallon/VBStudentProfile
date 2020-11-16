@@ -1,0 +1,13 @@
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\obj\Debug\netcoreapp3.1\VBstudentProfile.vbprojAssemblyReference.cache
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\obj\Debug\netcoreapp3.1\VBstudentProfile.AssemblyInfoInputs.cache
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\obj\Debug\netcoreapp3.1\VBstudentProfile.AssemblyInfo.vb
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\obj\Debug\netcoreapp3.1\VBstudentProfile.vbproj.CoreCompileInputs.cache
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\bin\Debug\netcoreapp3.1\VBstudentProfile.exe
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\bin\Debug\netcoreapp3.1\VBstudentProfile.deps.json
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\bin\Debug\netcoreapp3.1\VBstudentProfile.runtimeconfig.json
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\bin\Debug\netcoreapp3.1\VBstudentProfile.runtimeconfig.dev.json
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\bin\Debug\netcoreapp3.1\VBstudentProfile.dll
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\bin\Debug\netcoreapp3.1\VBstudentProfile.pdb
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\obj\Debug\netcoreapp3.1\VBstudentProfile.dll
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\obj\Debug\netcoreapp3.1\VBstudentProfile.pdb
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBstudentProfile\obj\Debug\netcoreapp3.1\VBstudentProfile.genruntimeconfig.cache
