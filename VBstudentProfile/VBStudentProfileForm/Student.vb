@@ -33,11 +33,12 @@
         studentString = "GradDate: " + gradDate.ToString
         Dim ugradStatus As String
         If isUnderGrad = True Then
-            ugradStatus = "UnderGrad"
+            ugradStatus = "Undergrad"
         Else
             ugradStatus = "Graduate"
         End If
-        studentString = "GradStatus: " + fullname
+        studentString = "GradStatus: " + ugradStatus
+
 
 
         Return studentString

@@ -14,8 +14,8 @@ Imports VBStudentProfileForm
         Assert.IsTrue(testStudent.ToString.Contains("Undergrad"))
     End Sub
     <TestMethod()> Public Sub GraduateTest()
-        Dim testStudent As New Student("q", 20, "123456789", "testemail", "123456789", "testmajor", Convert.ToDateTime("12/5/2020"), True)
-        Assert.IsFalse(testStudent.ToString.Contains("Graduate"))
+        Dim testStudent As New Student("q", 20, "123456789", "testemail", "123456789", "testmajor", Convert.ToDateTime("12/5/2020"), False)
+        Assert.IsTrue(testStudent.ToString.Contains("Graduate"))
     End Sub
 
 
