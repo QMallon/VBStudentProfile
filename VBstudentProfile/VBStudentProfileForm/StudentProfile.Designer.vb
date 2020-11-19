@@ -181,7 +181,7 @@ Partial Class StudentProfile
         Me.btnExit.Text = "Exit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
-        'Form1
+        'StudentProfile
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -203,7 +203,7 @@ Partial Class StudentProfile
         Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
-        Me.Name = "Form1"
+        Me.Name = "StudentProfile"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
