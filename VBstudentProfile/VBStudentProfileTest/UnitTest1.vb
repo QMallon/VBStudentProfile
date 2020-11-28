@@ -17,6 +17,9 @@ Imports VBStudentProfileForm
         Dim testStudent As New Student("q", 20, "123456789", "testemail", "123456789", "testmajor", Convert.ToDateTime("12/5/2020"), False)
         Assert.IsTrue(testStudent.ToString.Contains("Graduate"))
     End Sub
+    <TestMethod()> Public Sub ageCHeck()
+        Dim dates As DateTime
+    End Sub
 
 
 

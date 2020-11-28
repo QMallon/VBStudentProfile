@@ -9,3 +9,4 @@ C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBSt
 C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileForm\obj\Debug\VBStudentProfileForm.pdb
 C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileForm\obj\Debug\VBStudentProfileForm.vbprojAssemblyReference.cache
 C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileForm\obj\Debug\VBStudentProfileForm.vbproj.CoreCompileInputs.cache
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileForm\obj\Debug\VBStudentProfileForm.StudentProfile.resources

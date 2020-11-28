@@ -22,6 +22,9 @@
 
 
     End Sub
+    Public Sub New()
+
+    End Sub
     Public Overloads Function ToString() As String
         Dim studentString As String
         studentString = "Name: " + fullname
