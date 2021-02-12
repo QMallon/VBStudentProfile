@@ -20,3 +20,4 @@ C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBSt
 C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileTest\obj\Debug\VBStudentProfileTest.vbprojAssemblyReference.cache
 C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileTest\obj\Debug\VBStudentProfileTest.vbproj.CoreCompileInputs.cache
 C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileTest\obj\Debug\VBStudentProfileTest.vbproj.CopyComplete
+C:\Users\qpm5\Desktop\Visual basic practice\studentprofile\VBstudentProfile\VBStudentProfileTest\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll

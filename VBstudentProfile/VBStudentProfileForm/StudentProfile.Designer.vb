@@ -48,7 +48,7 @@ Partial Class StudentProfile
         '
         'txtFirst
         '
-        Me.txtFirst.Location = New System.Drawing.Point(116, 54)
+        Me.txtFirst.Location = New System.Drawing.Point(117, 54)
         Me.txtFirst.Name = "txtFirst"
         Me.txtFirst.Size = New System.Drawing.Size(100, 20)
         Me.txtFirst.TabIndex = 0

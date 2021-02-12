@@ -45,7 +45,7 @@ Public Class StudentProfile
     End Sub
 
     Public Function getAge(ByVal DOB As DateTime) As Integer
-        Return DateTime.Now.Year - DateTimePicker1.Value.Year - If((DateTime.Now.DayOfYear < DateTimePicker1.Value.DayOfYear), 0, 1)
+        Return DateTime.Now.Year - DateTimePicker1.Value.Year - If(DateTime.Now.DayOfYear < DateTimePicker1.Value.DayOfYear, 0, 1)
     End Function
 
     Private Sub StudentProfile_Load(sender As Object, e As EventArgs) Handles MyBase.Load

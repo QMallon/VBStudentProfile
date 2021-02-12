@@ -1,4 +1,5 @@
 ﻿Imports System.Text
+Imports System.Windows.Forms.VisualStyles.VisualStyleElement
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 Imports VBStudentProfileForm
 
@@ -19,7 +20,15 @@ Imports VBStudentProfileForm
     End Sub
     <TestMethod()> Public Sub ageCHeck()
         Dim dates As DateTime
+        Dim age = Date.Now.Year - 1998 - If(Date.Now.DayOfYear < 161, 1, 0)
+        Assert.IsTrue(Date.Now.Year - 1998 > age)
     End Sub
+    <TestMethod()> Public Sub ageCHeckSameDate()
+        Dim dates As DateTime
+        Dim age = Date.Now.Year - 1998 - If(Date.Now.DayOfYear < Date.Now.DayOfYear, 1, 0)
+        Assert.IsTrue((Date.Now.Year - 1998) = age)
+    End Sub
+
 
 
 
