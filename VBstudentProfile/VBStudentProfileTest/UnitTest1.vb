@@ -4,7 +4,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 Imports VBStudentProfileForm
 
 <TestClass()> Public Class UnitTest1
-
+    'Basic unit tests
     <TestMethod()> Public Sub toStringTest()
         Dim testStudent As New Student("q", 20, "123456789", "testemail", "123456789", "testmajor", Convert.ToDateTime("12/5/2020"), True)
         Assert.IsNotNull(testStudent.ToString())
